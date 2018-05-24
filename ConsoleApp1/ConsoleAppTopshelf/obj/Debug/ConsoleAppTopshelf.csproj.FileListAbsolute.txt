@@ -1,0 +1,14 @@
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\bin\Debug\ConsoleAppTopshelf.exe.config
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\bin\Debug\ConsoleAppTopshelf.exe
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\bin\Debug\ConsoleAppTopshelf.pdb
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\bin\Debug\log4net.dll
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\bin\Debug\Topshelf.dll
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\bin\Debug\Topshelf.Log4Net.dll
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\bin\Debug\log4net.xml
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\bin\Debug\Topshelf.xml
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\bin\Debug\Topshelf.Log4Net.xml
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\obj\Debug\ConsoleAppTopshelf.csprojResolveAssemblyReference.cache
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\obj\Debug\ConsoleAppTopshelf.csproj.CoreCompileInputs.cache
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\obj\Debug\ConsoleAppTopshelf.csproj.CopyComplete
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\obj\Debug\ConsoleAppTopshelf.exe
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleAppTopshelf\obj\Debug\ConsoleAppTopshelf.pdb

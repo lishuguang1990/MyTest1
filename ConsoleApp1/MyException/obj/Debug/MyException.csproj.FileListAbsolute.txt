@@ -1,0 +1,7 @@
+D:\李曙光\test项目\Test\ConsoleApp1\MyException\bin\Debug\MyException.exe.config
+D:\李曙光\test项目\Test\ConsoleApp1\MyException\bin\Debug\MyException.exe
+D:\李曙光\test项目\Test\ConsoleApp1\MyException\bin\Debug\MyException.pdb
+D:\李曙光\test项目\Test\ConsoleApp1\MyException\obj\Debug\MyException.csprojResolveAssemblyReference.cache
+D:\李曙光\test项目\Test\ConsoleApp1\MyException\obj\Debug\MyException.csproj.CoreCompileInputs.cache
+D:\李曙光\test项目\Test\ConsoleApp1\MyException\obj\Debug\MyException.exe
+D:\李曙光\test项目\Test\ConsoleApp1\MyException\obj\Debug\MyException.pdb

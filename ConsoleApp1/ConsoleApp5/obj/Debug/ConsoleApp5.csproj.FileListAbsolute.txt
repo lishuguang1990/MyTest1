@@ -1,0 +1,7 @@
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\李曙光\test项目\Test\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

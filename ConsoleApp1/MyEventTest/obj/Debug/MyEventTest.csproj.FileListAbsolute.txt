@@ -1,0 +1,7 @@
+D:\李曙光\test项目\Test\ConsoleApp1\MyEventTest\bin\Debug\MyEventTest.exe.config
+D:\李曙光\test项目\Test\ConsoleApp1\MyEventTest\bin\Debug\MyEventTest.exe
+D:\李曙光\test项目\Test\ConsoleApp1\MyEventTest\bin\Debug\MyEventTest.pdb
+D:\李曙光\test项目\Test\ConsoleApp1\MyEventTest\obj\Debug\MyEventTest.csprojResolveAssemblyReference.cache
+D:\李曙光\test项目\Test\ConsoleApp1\MyEventTest\obj\Debug\MyEventTest.csproj.CoreCompileInputs.cache
+D:\李曙光\test项目\Test\ConsoleApp1\MyEventTest\obj\Debug\MyEventTest.exe
+D:\李曙光\test项目\Test\ConsoleApp1\MyEventTest\obj\Debug\MyEventTest.pdb

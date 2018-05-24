@@ -1,0 +1,10 @@
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\李曙光\test项目\Test\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,7 @@
+D:\李曙光\test项目\Test\ConsoleApp1\MyForeach\bin\Debug\MyForeach.exe.config
+D:\李曙光\test项目\Test\ConsoleApp1\MyForeach\bin\Debug\MyForeach.exe
+D:\李曙光\test项目\Test\ConsoleApp1\MyForeach\bin\Debug\MyForeach.pdb
+D:\李曙光\test项目\Test\ConsoleApp1\MyForeach\obj\Debug\MyForeach.csprojResolveAssemblyReference.cache
+D:\李曙光\test项目\Test\ConsoleApp1\MyForeach\obj\Debug\MyForeach.csproj.CoreCompileInputs.cache
+D:\李曙光\test项目\Test\ConsoleApp1\MyForeach\obj\Debug\MyForeach.exe
+D:\李曙光\test项目\Test\ConsoleApp1\MyForeach\obj\Debug\MyForeach.pdb
